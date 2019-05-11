@@ -210,19 +210,19 @@ def cari(inurl , site , maxc):
     return finallist
 
 if __name__ == "__main__":
-	print (R+" ______  _________  ________            ______   ______   ______    ___   ___   ______      ")
-	print (R+"/_____/\/________/\/_______/\          /_____/\ /_____/\ /_____/\  /___/\/__/\ /_____/\     ")
-	print (R+"\:::__\/\__.::.__\/\__.::._\/   _______\:::_ \ \\:::_ \ \\:::_ \ \ \::.\ \\ \ \\::::_\/_    ")
-	print (R+" \:\ \  __ \::\ \     \::\ \   /______/\\:\ \ \ \\:\ \ \ \\:(_) ) )_\:: \/_) \ \\:\/___/\   ")
-	print (R+"  \:\ \/_/\ \::\ \    _\::\ \__\__::::\/ \:\ \ \ \\:\ \ \ \\: __ `\ \\:. __  ( ( \_::._\:\  ")
-	print (R+"   \:\_\ \ \ \::\ \  /__\::\__/\          \:\/.:| |\:\_\ \ \\ \ `\ \ \\: \ )  \ \  /____\:\ ")
-	print (R+"    \_____\/  \__\/  \________\/           \____/_/ \_____\/ \_\/ \_\/ \__\/\__\/  \_____\/ ")
-	print (R+"                                                                                            "
-	print (G+"   AUTHOR CODING BY: MISTER KITSUNE CYBER")
-	print (G+"   TYPE: SIMPLE TOOLS SCANNER DORKING WEBSITE")
-	print (G+"   TEAM: BLACK CYBER ANONYMOUS TEAM 2K07 X CYBER TROJAN INDONESIA")
-	print (G+"   TEAM SCRIPT SUPPORT: MARIANAS WEB TEAM 2K05")
-	print (G+"   VERSION: NEW IN THE WORLD")
+	print (R+"   ______  _________  ________            ______   ______   ______    ___   ___   ______        ")
+	print (R+"  /_____/\/________/\/_______/\          /_____/\ /_____/\ /_____/\  /___/\/__/\ /_____/\       ")
+	print (R+"  \:::__\/\__.::.__\/\__.::._\/   _______\:::_ \ \\:::_ \ \\:::_ \ \ \::.\ \\ \ \\::::_\/_      ")
+	print (R+"   \:\ \  __ \::\ \     \::\ \   /______/\\:\ \ \ \\:\ \ \ \\:(_) ) )_\:: \/_) \ \\:\/___/\     ")
+	print (R+"    \:\ \/_/\ \::\ \    _\::\ \__\__::::\/ \:\ \ \ \\:\ \ \ \\: __ `\ \\:. __  ( ( \_::._\:\    ")
+	print (R+"     \:\_\ \ \ \::\ \  /__\::\__/\          \:\/.:| |\:\_\ \ \\ \ `\ \ \\: \ )  \ \  /____\:\   ")
+	print (R+"      \_____\/  \__\/  \________\/           \____/_/ \_____\/ \_\/ \_\/ \__\/\__\/  \_____\/   ")
+	print (R+"                                                                                              ")
+	print (G+"   AUTHOR CODING BY: MISTER KITSUNE CYBER. ")
+	print (G+"   TYPE: SIMPLE TOOLS SCANNER DORKING WEBSITE  ")
+	print (G+"   TEAM: BLACK CYBER ANONYMOUS TEAM 2K07 X CYBER TROJAN INDONESIA  ")
+	print (G+"   TEAM SCRIPT SUPPORT: MARIANAS WEB TEAM 2K05  ")
+	print (G+"   VERSION: NEW IN THE WORLD  ")
 	print (W+43*"=")
 
 	inurl = raw_input(B+"[~]"+G+" URL-DORK    "+W+": ")
